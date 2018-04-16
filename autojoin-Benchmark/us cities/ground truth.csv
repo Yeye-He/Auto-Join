@@ -1,0 +1,32 @@
+source-United States Cities,target-City,target-State/Province,target-Country,target-Counties
+Albuquerque N.M.,Albuquerque,New Mexico,USA,Bernalillo
+Anchorage Alaska,Anchorage,Alaska,USA,Anchorage
+Atlanta Ga.,Atlanta?,Georgia,,Fulton (+DeKalb)
+Austin Texas,Austin,Texas,USA,Travis (+Williamson & Hays?)
+Baltimore Md.,Baltimore,Maryland,USA,NONE
+Baton Rouge La.,Baton Rouge,Louisiana,USA,East Baton Rouge Parish
+Boston Mass.,Boston,Massachusetts,USA,Suffolk
+Chicago Ill.,Chicago,Illinois,USA,Cook
+Cleveland Ohio,Cleveland,Ohio,USA,Cuyahoga
+Dallas-Ft. Worth Texas,Dallas,Texas,USA,Dallas (+Collin/Denton/Rockwall/Kaufman?)
+Denver Colo.,Denver,Colorado,USA,Denver
+Houston Texas,Houston,Texas,USA,Harris (+Fort Bend & Montgomery?)
+Jacksonville Fla.,Jacksonville,Florida,USA,Duval
+Los Angeles Calif.,Los Angeles?,California,USA,Los Angeles
+Miami Fla.,Miami,Florida,USA,Miami-Dade
+New Orleans La.,New Orleans?,Louisiana,USA,Orleans
+Omaha Neb.,Omaha,Nebraska,USA,Douglas
+Philadelphia Pa.,Philadelphia,Pennsylvania,USA,Philadelphia
+Phoenix Ariz.,Phoenix,Arizona,USA,Maricopa
+Pittsburgh Pa.,Pittsburgh,Pennsylvania,USA,Allegheny
+Portland Ore.,Portland,Oregon,USA,Multnomah
+Sacramento Calif.,Sacramento,California,USA,Sacramento
+Salt Lake City Utah,Salt Lake City,Utah,USA,Salt Lake
+San Diego Calif.,San Diego,California,USA,San Diego
+San Francisco Calif.,San Francisco,California,USA,San Francisco
+Tampa Fla.,Tampa,Florida,,
+Toledo Ohio,Toledo,Ohio,USA,Lucas
+Tucson Ariz.,Tucson,Arizona,USA,Pima
+Washington D.C.,Washington D.C.,D.C,USA,-
+Wilmington Del.,Wilmington,Delaware,USA,New Castle
+New York N.Y.,New York City,New York,USA,Kings/Queens/New York/Bronx/Richmond

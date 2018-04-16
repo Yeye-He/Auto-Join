@@ -1,0 +1,72 @@
+City,State/Province,Country,Counties
+Albuquerque,New Mexico,USA,Bernalillo
+New York City,New York,USA,Kings/Queens/New York/Bronx/Richmond
+Cleveland,Ohio,USA,Cuyahoga
+London,England,United Kingdom,Greater London
+Chicago,Illinois,USA,Cook
+Philadelphia,Pennsylvania,USA,Philadelphia
+Sacramento,California,USA,Sacramento
+Hermosillo,Sonora,Mexico,
+Toronto,Ontario,Canada,Toronto
+Lima,Lima District,Peru,Lima District
+Boston,Massachusetts,USA,Suffolk
+Miami,Florida,USA,Miami-Dade
+Baltimore,Maryland,USA,NONE
+Jerusalem,,Israel,Jerusalem District (Yerushalayim)
+Phoenix,Arizona,USA,Maricopa
+Washington D.C.,D.C,USA,-
+POTENTIALS,,,
+Vancouver,British Columbia,Canada,Vancouver Metropolitan
+Hamilton,Ontario,Canada,Hamilton
+Salt Lake City,Utah,USA,Salt Lake
+Oakland,California,USA,Alameda
+Austin,Texas,USA,Travis (+Williamson & Hays?)
+Denver,Colorado,USA,Denver
+San Diego,California,USA,San Diego
+Veracruz,Veracruz,Mexico,
+Singapore,,Singapore,
+Baton Rouge,Louisiana,USA,East Baton Rouge Parish
+Pittsburgh,Pennsylvania,USA,Allegheny
+Tel Aviv,,Israel,Tel Aviv District
+Houston,Texas,USA,Harris (+Fort Bend & Montgomery?)
+Anchorage,Alaska,USA,Anchorage
+Los Angeles?,California,USA,Los Angeles
+Atlanta?,Georgia,,Fulton (+DeKalb)
+New Orleans?,Louisiana,USA,Orleans
+San Francisco,California,USA,San Francisco
+Mexico,Federal District,Mexico,
+Monterrey,Nuevo Leon,Mexico,
+Tuxtla,Chiapas,Mexico,
+Portland,Oregon,USA,Multnomah
+Seattle,Washington,USA,King
+Dallas,Texas,USA,Dallas (+Collin/Denton/Rockwall/Kaufman?)
+La Paz,Baja Sur,Mexico,
+Tuxtla Guitierrez,Chiapas,Mexico,
+Jacksonville,Florida,USA,Duval
+Toledo,Ohio,USA,Lucas
+Manaus,Amazonas,Brazil,
+ITALICS =,Countable areas that,are 100% the city,
+USER REQUESTS:,,,
+Omaha,Nebraska,USA,Douglas
+Lethbridge,Alberta,Canada,
+Wilmington,Delaware,USA,New Castle
+Culiacán,Sinaloa,Mexico,
+Mexico City,,Mexico,
+Tampa,Florida,,
+Tampa/St. Pete,,,
+Angers,Pays de la Loire,France,Maine-et-Loire
+Paris,Île-de-France,France,
+Tallahassee,Florida,USA,Leon
+Tucson,Arizona,USA,Pima
+Beijing,Beijing Municipality,China,
+Bangcock,,Thailand,
+Santiago de Querétaro,Querétaro,Mexico,
+Cancún,Quinatana Roo,Mexico,
+Monterrey,Nuevo Leon,Mexico,
+Xalapa,Veracruz,Mexico,
+Cuernavaca,Morelos,Mexico,
+Cuautla,,Mexico,
+Yautepec,,Mexico,
+Saltillo,Coahuila,Mexico,
+Melbourne,,Australia,
+Guadalajara,Jalisco,Mexico,

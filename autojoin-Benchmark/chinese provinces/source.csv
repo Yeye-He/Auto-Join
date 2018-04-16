@@ -1,0 +1,35 @@
+GB,ISO,Province,Chinese Hanyu Pinyin,Capital,Abbreviation
+BJ,CN-11,Beijing Municipality,北京市; Běijīng Shì,Beijing,京; Jīng
+TJ,CN-12,Tianjin Municipality,天津市; Tiānjīn Shì,Tianjin,津; Jīn
+HE,CN-13,Hebei Province,河北省; Héběi Shěng,Shijiazhuang,冀; Jì
+SX,CN-14,Shanxi Province,山西省; Shānxī Shěng,Taiyuan,晋; Jìn
+NM,CN-15,Inner Mongolia Autonomous Region,內蒙古自治区; Nèi Měnggǔ Zìzhìqū,Hohhot,內蒙古; Nèi Měnggǔ
+LN,CN-21,Liaoning Province,辽宁省; Liáoníng Shěng,Shenyang,辽; Liáo
+JL,CN-22,Jilin Province,吉林省; Jílín Shěng,Changchun,吉; Jí
+HL,CN-23,Heilongjiang Province,黑龙江省; Hēilóngjiāng Shěng,Harbin,黑; Hēi
+SH,CN-31,Shanghai Municipality,上海市; Shànghǎi Shì,Shanghai,沪; Hù
+JS,CN-32,Jiangsu Province,江苏省; Jiāngsū Shěng,Nanjing,苏; Sū
+ZJ,CN-33,Zhejiang Province,浙江省; Zhèjiāng Shěng,Hangzhou,浙; Zhè
+AH,CN-34,Anhui Province,安徽省; Ānhuī Shěng,Hefei,皖; Wǎn
+FJ,CN-35,Fujian Province,福建省; Fújiàn Shěng,Fuzhou,闽; Mǐn
+JX,CN-36,Jiangxi Province,江西省; Jiāngxī Shěng,Nanchang,赣; Gàn
+SD,CN-37,Shandong Province,山东省; Shāndōng Shěng,Jinan,鲁; Lǔ
+HA,CN-41,Henan Province,河南省; Hénán Shěng,Zhengzhou,豫; Yù
+HB,CN-42,Hubei Province,湖北省; Húběi Shěng,Wuhan,鄂; È
+HN,CN-43,Hunan Province,湖南省; Húnán Shěng,Changsha,湘; Xiāng
+GD,CN-44,Guangdong Province,广东省; Guǎngdōng Shěng,Guangzhou,粤; Yuè
+GX,CN-45,Guangxi Zhuang Autonomous Region,广西壮族自治区; Guǎngxī Zhuàngzú Zìzhìqū,Nanning,桂; Guì
+HI,CN-46,Hainan Province,海南省; Hǎinán Shěng,Haikou,琼; Qióng
+CQ,CN-50,Chongqing Municipality,重庆市; Chóngqìng Shì,Chongqing,渝; Yú
+SC,CN-51,Sichuan Province,四川省; Sìchuān Shěng,Chengdu,川(蜀); Chuān (Shǔ)
+GZ,CN-52,Guizhou Province,贵州省; Guìzhōu Shěng,Guiyang,贵(黔); Guì (Qián)
+YN,CN-53,Yunnan Province,云南省; Yúnnán Shěng,Kunming,云(滇); Yún (Diān)
+XZ,CN-54,Tibet Autonomous Region,西藏自治区; Xīzàng Zìzhìqū,Lhasa,藏; Zàng
+SN,CN-61,Shaanxi Province,陕西省; Shǎnxī Shěng,Xi'an,陕(秦); Shǎn (Qín)
+GS,CN-62,Gansu Province,甘肃省; Gānsù Shěng,Lanzhou,甘(陇); Gān (Lǒng)
+QH,CN-63,Qinghai Province,青海省; Qīnghǎi Shěng,Xining,青; Qīng
+NX,CN-64,Ningxia Hui Autonomous Region,宁夏回族自治区; Níngxià Huízú Zìzhìqū,Yinchuan,宁; Níng
+XJ,CN-65,Xinjiang Uyghur Autonomous Region,新疆维吾尔自治区; Xīnjiāng Wéiwú'ěr Zìzhìqū,Ürümqi,新; Xīn
+HK,CN-91,Hong Kong Special Administrative Region,香港特别行政区; Xiānggǎng Tèbié Xíngzhèngqū,Hong Kong,港; Gǎng
+MC,CN-92,Macau Special Administrative Region,澳门特别行政区; Àomén Tèbié Xíngzhèngqū,Macau,澳; Ào
+TW,CN-71,Taiwan Province *,台湾省; Táiwān Shěng,Taipei,台; Tái

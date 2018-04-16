@@ -1,0 +1,45 @@
+source-OB,source-Name,source-Birth Name,source-OP,source-Birthplace,source-State of Birth,source-AP,target-State,target-Presidents per state,target-Presidents,target-#th President
+1,George Washington,,1,Pope&#39;s Creek,Virginia,57,Virginia,5,George Washington*,1
+2,John Adams,John Adams Jr,2,Braintree,Massachusetts,61,Massachusetts,4,John Adams*,2
+3,Thomas Jefferson,,3,Goochland County,Virginia,57,Virginia,5,Thomas Jefferson*,3
+4,James Madison,James Madison Jr,4,Port Conway,Virginia,57,Virginia,5,James Madison*,4
+5,James Monroe,,5,Monroe Hall,Virginia,58,Virginia,5,James Monroe*,5
+7,John Quincy Adams,,6,Braintree,Massachusetts,57,Massachusetts,4,John Quincy Adams*,6
+6,Andrew Jackson,,7,Waxhaws Region,South/North Carolina,61,Tennessee,3,Andrew Jackson*,7
+9,Martin Van Buren,,8,Kinderhook,New York,54,New York,6,Martin Van Buren*,8
+8,William Henry Harrison,,9,Charles City County,Virginia,68,Ohio,6,William Henry Harrison*,9
+11,John Tyler,John Tyler Jr,10,Charles City County,Virginia,51,Virginia,5,John Tyler*,10
+13,James K. Polk,James Knox Polk,11,Pineville,North Carolina,49,Tennessee,3,James K. Polk*,11
+10,Zachary Taylor,,12,Barboursville,Virginia,64,Louisiana,1,Zachary Taylor*,12
+14,Millard Fillmore,,13,Moravia,New York,50,New York,6,Millard Fillmore*,13
+15,Franklin Pierce,,14,Hillsborough,New Hampshire,48,New Hampshire,1,Franklin Pierce*,14
+12,James Buchanan,James Buchanan Jr,15,Cove Gap,Pennsylvania,65,Pennsylvania,1,James Buchanan*,15
+17,Abraham Lincoln,,16,Hardin County,Kentucky,52,Illinois,3,Abraham Lincoln*,16
+16,Andrew Johnson,,17,Raleigh,North Carolina,56,Tennessee,3,Andrew Johnson*,17
+18,Ulysses S. Grant,Hiram Ulysses Grant,18,Point Pleasant,Ohio,46,Illinois,3,Ulysses S. Grant*,18
+19,Rutherford B. Hayes,Rutherford Birchard Hayes,19,Delaware,Ohio,54,Ohio,6,Rutherford B. Hayes*,19
+21,James A. Garfield,James Abram Garfield,20,Moreland Hills,Ohio,49,Ohio,6,James A. Garfield*,20
+20,Chester A. Arthur,Chester Alan Arthur,21,Fairfield,Vermont,51,New York,6,Chester A. Arthur*,21
+23,Grover Cleveland,Stephen Grover Cleveland,22,Caldwell,New Jersey,47,New York,6,Grover Cleveland*,22
+22,Benjamin Harrison,,23,North Bend,Ohio,55,Indiana,1,Benjamin Harrison*,23
+23,Grover Cleveland,Stephen Grover Cleveland,24,Caldwell,New Jersey,55,New York,6,Grover Cleveland*,24
+24,William McKinley,William McKinley Jr,25,Niles,Ohio,54,Ohio,6,William McKinley*,25
+27,Theodore Roosevelt,Theodore Roosevelt Jr,26,New York City,New York,42,New York,6,Theodore Roosevelt*,26
+26,William Howard Taft,,27,Cincinnati,Ohio,51,Ohio,6,William Howard Taft*,27
+25,Woodrow Wilson,Thomas Woodrow Wilson,28,Staunton,Virginia,56,New Jersey,1,Woodrow Wilson*,28
+28,Warren G. Harding,Warren Gamaliel Harding,29,Blooming Grove,Ohio,55,Ohio,6,Warren G. Harding*,29
+29,Calvin Coolidge,John Calvin Coolidge Jr,30,Plymouth,Vermont,51,Massachusetts,4,Calvin Coolidge*,30
+30,Herbert Hoover,Herbert Clark Hoover,31,West Branch,Iowa,54,California,3,Herbert Hoover*,31
+31,Franklin D. Roosevelt,Franklin Delano Roosevelt,32,Hyde Park,New York,51,New York,6,Franklin D. Roosevelt*,32
+32,Harry S. Truman,,33,Lamar,Missouri,60,Missouri,1,Harry S. Truman*,33
+33,Dwight D. Eisenhower,David Dwight Eisenhower,34,Denison,Texas,62,Kansas,1,Dwight D. Eisenhower*,34
+38,John F. Kennedy,John Fitzgerald Kennedy,35,Brookline,Massachusetts,43,Massachusetts,4,John F. Kennedy*,35
+34,Lyndon B. Johnson,Lyndon Baines Johnson,36,Stonewall,Texas,55,Texas,3,Lyndon B. Johnson*,36
+36,Richard M. Nixon,Richard Milhous Nixon,37,Yorba Linda,California,56,California,3,Richard Nixon*,37
+37,Gerald R. Ford,Leslie Lynch King Jr,38,Omaha,Nebraska,61,Michigan,1,Gerald Ford*,38
+40,Jimmy Carter,James Earl Carter Jr,39,Plains,Georgia,52,Georgia,1,Jimmy Carter*,39
+35,Ronald Reagan,Ronald Wilson Reagan,40,Tampico,Illinois,69,California,3,Ronald Reagan*,40
+39,George H. W. Bush,George Herbert Walker Bush,41,Milton,Massachusetts,64,Texas,3,George H. W. Bush*,41
+42,Bill Clinton,William Jefferson Blythe III,42,Hope,Arkansas,46,Arkansas,1,Bill Clinton*,42
+41,George W. Bush,George Walker Bush,43,New Haven,Connecticut,54,Texas,3,George W. Bush*,43
+43,Barack Obama,Barack Hussein Obama II,44,Honolulu,Hawaii,47,Illinois,3,Barack Obama*,44

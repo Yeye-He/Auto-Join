@@ -1,0 +1,26 @@
+source-GB,source-ISO,source-Province,source-Chinese Hanyu Pinyin,source-Capital,source-Abbreviation,target-Name,target-Hanzi,target-Pinyin,target-Abbreviation,target-Capital,target-Hanzi0,target-Note
+HE,CN-13,Hebei Province,河北省; Héběi Shěng,Shijiazhuang,冀; Jì,Hebei,河北,Héběi,冀 jì,Baoding (49–54; 67–68); Tianjin (54–67); Shijiazhuang (present),保定 天津 石家庄,1967 Tianjin split into its own municipality
+SX,CN-14,Shanxi Province,山西省; Shānxī Shěng,Taiyuan,晋; Jìn,Shanxi,山西,Shānxī,晋 jìn,Taiyuan,太原,
+LN,CN-21,Liaoning Province,辽宁省; Liáoníng Shěng,Shenyang,辽; Liáo,Liaoning,辽宁,Liáoníng,辽 liáo,Shenyang,沈阳,1949 abolished → Liaodong Liaoxi; 1954 reverted; 1952 north part split into Inner Mongolia
+JL,CN-22,Jilin Province,吉林省; Jílín Shěng,Changchun,吉; Jí,Jilin,吉林,Jílín,吉 jí,Jilin (49–54); Changchun (present),吉林 长春,1952 north part split into Inner Mongolia
+HL,CN-23,Heilongjiang Province,黑龙江省; Hēilóngjiāng Shěng,Harbin,黑; Hēi,Heilongjiang,黑龙江,Hēilóngjiāng,黑 hēi,Qiqihar (49–54); Harbin (present),齐齐哈尔; 哈尔滨,1952 part of Xing&#39;an split into Inner Mongolia
+JS,CN-32,Jiangsu Province,江苏省; Jiāngsū Shěng,Nanjing,苏; Sū,Jiangsu,江苏,Jiāngsū,苏 sū,Nanjing,南京,1949 abolished → Subei Subnan; 1952 reverted
+ZJ,CN-33,Zhejiang Province,浙江省; Zhèjiāng Shěng,Hangzhou,浙; Zhè,Zhejiang,浙江,Zhèjiāng,浙 zhè,Hangzhou,杭州,
+AH,CN-34,Anhui Province,安徽省; Ānhuī Shěng,Hefei,皖; Wǎn,Anhui,安徽,Ānhuī,皖 wǎn,Hefei,合肥,1949 abolished → Wanbei Wannan; 1952 reverted
+FJ,CN-35,Fujian Province,福建省; Fújiàn Shěng,Fuzhou,闽; Mǐn,Fujian,福建,Fújiàn,闽 mǐn,Fuzhou,福州,
+JX,CN-36,Jiangxi Province,江西省; Jiāngxī Shěng,Nanchang,赣; Gàn,Jiangxi,江西,Jiāngxī,赣 gàn,Nanchang,南昌,
+SD,CN-37,Shandong Province,山东省; Shāndōng Shěng,Jinan,鲁; Lǔ,Shandong,山东,Shāndōng,鲁 lǔ,Jinan,济南,
+HA,CN-41,Henan Province,河南省; Hénán Shěng,Zhengzhou,豫; Yù,Henan,河南,Hénán,豫 yù,Kaifeng (49–54); Zhengzhou (present),开封 郑州,
+HB,CN-42,Hubei Province,湖北省; Húběi Shěng,Wuhan,鄂; È,Hubei,湖北,Húběi,鄂 è,Wuhan,武汉,
+HN,CN-43,Hunan Province,湖南省; Húnán Shěng,Changsha,湘; Xiāng,Hunan,湖南,Húnán,湘 xiāng,Changsha,长沙,
+GD,CN-44,Guangdong Province,广东省; Guǎngdōng Shěng,Guangzhou,粤; Yuè,Guangdong,广东,Guǎngdōng,粤 yuè,Guangzhou,广州,1952 &amp; 1965 Fangchenggang Qinzhou Beihai → Guangxi; 1955 reverted; 1988 Hainan split into its ow
+GX,CN-45,Guangxi Zhuang Autonomous Region,广西壮族自治区; Guǎngxī Zhuàngzú Zìzhìqū,Nanning,桂; Guì,Guangxi,广西,Guǎngxī,桂 guì,Nanning,南宁,1958 province → autonomous region
+HI,CN-46,Hainan Province,海南省; Hǎinán Shěng,Haikou,琼; Qióng,Hainan,海南,Hǎinán,琼 qióng,Haikou,海口,
+SC,CN-51,Sichuan Province,四川省; Sìchuān Shěng,Chengdu,川(蜀); Chuān (Shǔ),Sichuan,四川,Sìchuān,川 chuān,Chengdu,成都,1949 abolished → Chuanbei Chuandong Chuannan Chuanxi; 1952 reverted; 1997 Chongqing split into
+GZ,CN-52,Guizhou Province,贵州省; Guìzhōu Shěng,Guiyang,贵(黔); Guì (Qián),Guizhou,贵州,Guìzhōu,黔 qián,Guiyang,贵阳,
+YN,CN-53,Yunnan Province,云南省; Yúnnán Shěng,Kunming,云(滇); Yún (Diān),Yunnan,云南,Yúnnán,滇 diān,Kunming,昆明,
+SN,CN-61,Shaanxi Province,陕西省; Shǎnxī Shěng,Xi'an,陕(秦); Shǎn (Qín),Shaanxi,陕西,Shǎnxī,陕 shǎn,Xi&#39;an,西安,
+GS,CN-62,Gansu Province,甘肃省; Gānsù Shěng,Lanzhou,甘(陇); Gān (Lǒng),Gansu,甘肃,Gānsù,甘 gān,Lanzhou,兰州,1958 Ningxia split into its own autonomous region
+QH,CN-63,Qinghai Province,青海省; Qīnghǎi Shěng,Xining,青; Qīng,Qinghai,青海,Qīnghǎi,青 qīng,Xining,西宁,
+NX,CN-64,Ningxia Hui Autonomous Region,宁夏回族自治区; Níngxià Huízú Zìzhìqū,Yinchuan,宁; Níng,Ningxia,宁夏,Níngxià,宁 níng,Yinchuan,银川,1954 province → Gansu
+XJ,CN-65,Xinjiang Uyghur Autonomous Region,新疆维吾尔自治区; Xīnjiāng Wéiwú'ěr Zìzhìqū,Ürümqi,新; Xīn,Xinjiang,新疆,Xīnjiāng,疆 jiāng,Ürümqi,乌鲁木齐,1955 province → autonomous region
