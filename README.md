@@ -19,7 +19,7 @@ Each folder is a test case, that contains 3 files:
 
 
 ## (2) Auto-Join DLLs:
-We release the library created in the paper, under a "Microsoft Research License". We hope this facilitates researchers to build on top of the library, or perform research comparisons (unfortunatel, we are not able to release source code at this time due to commercial reasons).
+We release the library created in the paper in AutoJoin-ReleaseDLL.zip, under a "Microsoft Research License". We hope this facilitates researchers to build on top of the library, or perform research comparisons (unfortunatel, we are not able to release source code at this time due to commercial reasons).
 
 ### Folder structure:
 Code: A demo solution is in ./Code, please open AutoJoin.sln using Visual Studio (dependent DLLs are in ./Code/_DLLs).
