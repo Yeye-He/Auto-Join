@@ -30,4 +30,4 @@ License: the DLLs are released under a "Microsoft Research License" license, ple
 
 
 ### Contact:
-yeyehe@microsoft.com, erkang.zhu@microsoft.com
+For additional questions, please contact the authors via emails in the [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/autojoin-fullversion.pdf).
